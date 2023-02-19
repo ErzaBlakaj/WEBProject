@@ -21,9 +21,9 @@
 
       <nav class="navbar">
         <a href="#home">home</a>
-        <a href="about.html">about</a>
-        <a href="shop.html">shop</a>
-        <a href="services.html">services</a>
+        <a href="about.php">about</a>
+        <a href="shop.php">shop</a>
+        <a href="services.php">services</a>
         <a href="#plan">plan</a>
         <a href="#contact">contact</a>
       </nav>
@@ -78,7 +78,6 @@
     <!-- sektori home perfundon ketu -->
 
     <!-- ABOUT fillon ketu  -->
-
     <section class="about" id="about">
       <div class="image">
         <img src="image/about_img.png" alt="" />
